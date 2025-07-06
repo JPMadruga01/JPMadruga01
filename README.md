@@ -12,7 +12,7 @@
 - 🛠️ Git | GitHub
 
 ## 📫 Como me encontrar
-- [LinkedIn](www.linkedin.com/in/joão-pedro-madruga-0ba526196)  
+- [LinkedIn]: https://www.linkedin.com/in/jo%C3%A3o-pedro-madruga-0ba526196/ 
 - Email: jp.madruga.ff@gmail.com  
 - GitHub: https://github.com/JPMadruga01
 
