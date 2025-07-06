@@ -14,7 +14,7 @@
 ## 📫 Como me encontrar
 - [LinkedIn](www.linkedin.com/in/joão-pedro-madruga-0ba526196)  
 - Email: jp.madruga.ff@gmail.com  
-- GitHub: [github.com/seu-usuario]([https://github.com/seu-usuario](https://github.com/JPMadruga01))
+- GitHub: https://github.com/JPMadruga01
 
 
 
