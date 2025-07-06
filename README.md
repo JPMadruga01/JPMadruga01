@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá! Eu sou João Pedro Madruga
 
-<!--
-**JPMadruga01/JPMadruga01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente sou estudante de Engenharia de Software focado em desenvolvimento **Java**, **Python** e **SQL**, explorando soluções backend robustas e eficientes.  
+💻 Já atuei em projetos envolvendo o desenvolvimento **frontend**, utilizando **HTML**, **CSS** e **JavaScript** para criar interfaces web funcionais e responsivas.  
+🚀 Estou sempre em busca de aprender novas tecnologias e participar de projetos que me desafiem a crescer como desenvolvedor.
 
-Here are some ideas to get you started:
+## 🧰 Tecnologias e Ferramentas
+- 🌐 HTML | CSS | JavaScript
+- ☕ Java
+- 🐍 Python
+- 🗄️ SQL (MySQL, PostgreSQL)
+- 🛠️ Git | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+- [LinkedIn](www.linkedin.com/in/joão-pedro-madruga-0ba526196)  
+- Email: jp.madruga.ff@gmail.com  
+- GitHub: [github.com/seu-usuario]([https://github.com/seu-usuario](https://github.com/JPMadruga01))
+
+
+
