@@ -8,7 +8,7 @@
 - 🌐 HTML | CSS | JavaScript
 - ☕ Java
 - 🐍 Python
-- 🗄️ SQL (MySQL, PostgreSQL)
+- 🗄️ SQL (MySQL)
 - 🛠️ Git | GitHub
 
 ## 📫 Como me encontrar
